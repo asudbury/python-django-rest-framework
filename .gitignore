@@ -1,0 +1,15 @@
+# Django #
+db.sqlite3
+
+# Python # 
+*.py[cod] 
+*$py.class 
+
+# pyenv 
+.python-version 
+
+# Environments 
+.venv 
+
+# Visual Studio Code # 
+.vscode/* 
